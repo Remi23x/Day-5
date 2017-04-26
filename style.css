@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  width:100%
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+div#hero {
+  background-image: Url("img/bluApple.jpg");
+  background-repeat: none;
+  height: 1000px;
+}
